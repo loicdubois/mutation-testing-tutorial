@@ -21,5 +21,6 @@ We will use [Mutate++]([url](https://github.com/nlohmann/mutate_cpp)https://gith
 
 ## Usage
 1. In the _mutate_cpp_ folder, start Mutate++: `python3 run.py`
-2. Follow the [tutorial](https://github.com/nlohmann/mutate_cpp#2-create-project-in-mutate) in mutate_cpp, just adapt the path to the source and build folders
-3. Try with another project that you can build locally
+2. Open the app in your browser with the URL http://127.0.0.1:5000.
+3. Follow the [tutorial](https://github.com/nlohmann/mutate_cpp#2-create-project-in-mutate) in mutate_cpp, just adapt the path to the source and build folders
+4. Try with another project that you can build locally
